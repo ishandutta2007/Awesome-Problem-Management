@@ -64,9 +64,9 @@ Below is the definitive comparison of leading SaaS Problem Management platforms,
 
 ## 🔓 Open-Source GitHub Projects
 
-Self-hosted, sovereign, and community-driven tools for organizations demanding data privacy, on-premise governance, and no per-agent licensing fees. Repositories are ranked in **descending order by GitHub star count**.
+Self-hosted, sovereign, and community-driven tools for organizations demanding data privacy, on-premise governance, and no per-agent licensing fees. Repositories are ranked in **descending order by GitHub Stars_Count**.
 
-| 📦 Repository & Stargazers | ⭐ Star Badge | 📜 License | 🎯 Problem Management Focus |
+| 📦 Repository & Stargazers | ⭐ Stars_Badge | 📜 License | 🎯 Problem Management Focus |
 | :--- | :---: | :---: | :--- |
 | **[Keep](https://github.com/keephq/keep)** | <a href="https://github.com/keephq/keep/stargazers"><img src="https://img.shields.io/github/stars/keephq/keep?style=social&color=white" alt="Keep Stars" /></a> | Apache-2.0 | **AIOps & Alert Correlation Engine**: Modern open-source platform that automatically aggregates, deduplicates, and correlates alerts across monitoring tools into root-cause problem candidates with automated workflow orchestration. |
 | **[GLPI](https://github.com/glpi-project/glpi)** | <a href="https://github.com/glpi-project/glpi/stargazers"><img src="https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white" alt="GLPI Stars" /></a> | GPL-3.0 | **Comprehensive ITIL Service Desk & CMDB**: Features a full native ITIL Problem Management module enabling teams to link multiple incident tickets to a single problem, calculate business impact via CMDB assets, and document Known Error solutions. |
@@ -121,7 +121,7 @@ We welcome additions, corrections, and architectural guides from the community!
    ```
 3. **Add your entry** to either the SaaS or Open-Source table, maintaining alphabetical order or star/size ranking criteria.
    - For SaaS: Include specific starting tier pricing, explicit free trial limits, and verified company valuation/revenue metrics.
-   - For Open-Source: Include the shields.io social star badge linked to the repo stargazers page, license, and problem management capabilities.
+   - For Open-Source: Include the shields.io social Stars_Badge linked to the repo stargazers page, license, and problem management capabilities.
 4. **Test your markdown** for clean rendering.
 5. **Submit a Pull Request** with a concise summary of the addition.
 
