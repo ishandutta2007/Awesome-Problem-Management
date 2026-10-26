@@ -64,7 +64,7 @@ Below is the definitive comparison of leading SaaS Problem Management platforms,
 
 ## 🔓 Open-Source GitHub Projects
 
-Self-hosted, sovereign, and community-driven tools for organizations demanding data privacy, on-premise governance, and no per-agent licensing fees. Repositories are ranked in **descending order by GitHub Stars_Count**.
+Self-hosted, sovereign, and community-driven tools for organizations demanding data privacy, on-premise governance, and no per-agent licensing fees. Repositories are ranked in **descending order by GitHub_Stars_Count**.
 
 | 📦 Repository & Stargazers | ⭐ Stars_Badge | 📜 License | 🎯 Problem Management Focus |
 | :--- | :---: | :---: | :--- |
